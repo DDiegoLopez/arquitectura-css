@@ -1,6 +1,7 @@
-# Arquitectura-css
+# Arquitectura-CSS
 curso de arquictetura CSS de Alura Latam. 
-Instructora: Jeanmarie Quijada
+
+Uso de BEM y Atomic Design 
 
 
 
