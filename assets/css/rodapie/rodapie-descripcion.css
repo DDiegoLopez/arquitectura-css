@@ -1,0 +1,14 @@
+.rodapie__descripcion{
+    display: flex;
+    font-size: 2rem;
+    color: #8C8888;
+    font-family: Roboto, sans-serif;
+    margin-left: 5rem;
+}
+
+@media screen and (min-width:0px) {
+    .rodapie__descripcion{
+        padding-right: 4rem;
+    }
+}
+
